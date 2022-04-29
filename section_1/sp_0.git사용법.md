@@ -90,3 +90,6 @@ fatal: invalid reference: branch명
 git pull 으로 신규 branch를 받아준 뒤
 
 git switch branch명 을 사용해주면 된다
+
+## 원하는 위치에 잔디 심고 싶을 때.
+git commit --amend --no-edit --date "Fri 15 Apr 2022 14:00:19 KST"
